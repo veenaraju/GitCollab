@@ -5,7 +5,7 @@ def add(a: int, b: int) -> int:
 
 def subtract(a: int, b: int) -> int:
     """Subtracts the second number from the first."""
-    return a - b
+    return print("test", a - b)
 
 
 if __name__ == "__main__":
